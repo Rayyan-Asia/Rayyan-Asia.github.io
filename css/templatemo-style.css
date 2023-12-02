@@ -379,14 +379,14 @@ h1,h2,h3,h4,h5
 /* end contact */
 
 /* start footer */
-footer
+.end
     {
         border-top: 1px solid #090909;
         text-align: center;
         padding-top: 40px;
         padding-bottom: 20px;
     }
-footer hr
+.end hr
     {
         width: 100px;
     }
